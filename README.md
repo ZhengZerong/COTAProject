@@ -16,4 +16,5 @@ Illustration on 2D data.
 * 2nd/3rd image: comparison of SVM-GSU with standard SVM (black dash line) that learns by sampling 100/1000 points from the input Gaussian. 
 
 ## Related Link
+* The paper of SVM-GSU: [link](https://www.researchgate.net/publication/275054882_Linear_Maximum_Margin_Classifier_for_Learning_from_Uncertain_Data)
 * A full C++ implementation of SVM-GSU provided by the authors: [link](https://github.com/chi0tzp/svm-gsu)
