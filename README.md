@@ -3,6 +3,8 @@
 
 Requirement: Matlab + CVX
 
+Usage: run main.m in Matlab console. 
+
 ## Illustration
 <p align="center">
 <img src="./example.png" title="" height="200", style="max-width:25%;vertical-align:top"> 
